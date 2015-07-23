@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Driftsgruppa/gipsy",
   "dependencies": {
+    "fluent-ffmpeg": "^2.0.1",
     "serialport": "^1.7.4",
     "spaghetti": "^0.1.1"
   }
